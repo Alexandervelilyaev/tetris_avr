@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+tetris/Debug/*
+tetris/*.componentinfo.xml
+.vs/*
+tetris/libs/lcd_nokia5110/lcd_nokia5110.h
